@@ -8,11 +8,11 @@ Hey {}
 
 Welcome to {}
 
-I can help you to do stuff on PDFs as well as convert images to PDF. Use /help to see features.
+I can help you to do stuff on Pdfs as well as convert images to Pdf. Use /help command to see features.
 
 JUST SEND A PDF (or an image) to get started.
 
-By @StarkBots
+By @Tellybots_4u
     """
 
     # Home Button
@@ -22,12 +22,12 @@ By @StarkBots
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/StarkBots/7")],
+        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/tellybots_4u")],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")],
+        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/Tellybots_4u")],
     ]
 
     # Help Message
@@ -49,13 +49,13 @@ By @StarkBots
     ABOUT = """
 **About This Bot** 
 
-A telegram bot with PDF Tools by @StarkBots
+A telegram bot with Pdf tools by @Tellybots_4u
 
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/PDFBot)
+Source Code : [Click Here](https://t.me/tellybots_digital)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @StarkProgrammer
+Developer : @Tellybots_4u
     """
