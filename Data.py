@@ -24,7 +24,7 @@ Made With 💕 By @Tellybots_4u
     buttons = [
         [InlineKeyboardButton("📡 Update Channel", url="https://t.me/tellybots_4u")],
         [
-            InlineKeyboardButton("How to Use ❔", callback_data="help"),
+            InlineKeyboardButton("How to Use me ❔", callback_data="help"),
             InlineKeyboardButton("👲 About", callback_data="about")
         ],
         [InlineKeyboardButton("💬 Support Group", url="https://t.me/Tellybots_support")],
